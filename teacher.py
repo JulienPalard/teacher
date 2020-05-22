@@ -8,7 +8,7 @@ import sys
 import gettext
 from pathlib import Path
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 gettext.bindtextdomain('teacher', Path(__file__).resolve().parent / "locale")
 gettext.textdomain('teacher')

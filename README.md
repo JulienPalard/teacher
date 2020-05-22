@@ -1,7 +1,11 @@
 # Teacher
 
-This module is a POC on how we could help newcomers better understand
+This module is just a POC on how we could help newcomers better understand
 some exceptions.
+
+This is just a POC, a full implementation is done by André Roberge at
+https://github.com/aroberge/friendly-traceback.
+
 
 ## Demo
 
